@@ -1,0 +1,11 @@
+name: app1
+title:
+username:
+account: chissi007
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5301460
+bundleId: 5352443
+url: https://chissi007.shinyapps.io/app1/
+when: 1639086929.97496
+lastSyncTime: 1639086929.97496
